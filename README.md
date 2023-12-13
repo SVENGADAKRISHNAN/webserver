@@ -59,6 +59,7 @@ httpd = HTTPServer(server_address,MyServer)
 httpd.serve_forever()
 
 ## OUTPUT;
-/home/sec/FWAD/ex01/webserver/Client output.png
+![Client output (copy)](https://github.com/SVENGADAKRISHNAN/webserver/assets/147473084/5f02294d-2823-4ffe-8964-b3368cefe7dd)
+
 ## RESULT:
 The program is executed succesfully
